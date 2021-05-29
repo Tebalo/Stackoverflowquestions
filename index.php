@@ -1,1 +1,1 @@
-<?php header('StackOverFlowQuestions/stackapi/templates/display/index.html');  ?>
+<?php header('stackapi/templates/display/index.html');  ?>
