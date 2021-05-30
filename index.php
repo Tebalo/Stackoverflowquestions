@@ -1,1 +1,0 @@
-<?php header('stackapi/templates/display/index.html');  ?>
