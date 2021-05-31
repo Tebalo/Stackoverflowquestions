@@ -69,7 +69,7 @@ def getLatestQuestions(request):
     question.vote_count = vote_count
     question.views = views
     question.tags = tags
-    #delete_all()
+
     question.save()
 def delete_all():
   Question.objects.all().delete()
